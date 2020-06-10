@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import dinner from ./dinner.js
+import Dinner from ./dinner.js
 
 function App() {
   return (
